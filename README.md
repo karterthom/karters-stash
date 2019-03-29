@@ -2,4 +2,4 @@
 
 A mod adding multiple new blocks based around aesthetics and flowers.
 This mod is CREATIVE ONLY. Meaning you can only spawn the items in via command.
-If you spawn in "stashguide" in game, you will find a list of items.
+If you spawn in "stashguide-codex" in game, you will find a list of items.
